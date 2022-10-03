@@ -1,0 +1,20 @@
+
+body {
+    font-size: 110%;
+    color:#e1e1e6;
+    background-color:#2e2e32;
+    max-width: 700px;
+    margin: auto;
+}
+
+a:link {
+    color: #518bff;
+}
+
+a:visited {
+    color: #BD7AFE;
+}
+
+a:hover {
+    color: #2a71ff;
+}
